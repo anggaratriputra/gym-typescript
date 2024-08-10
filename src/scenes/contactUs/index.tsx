@@ -1,5 +1,4 @@
 import { SelectedPage } from "@/shared/types";
-import React from "react";
 import { useForm } from "react-hook-form";
 import ContactUsPageGraphic from "@/assets/ContactUsPageGraphic.png";
 import { motion } from "framer-motion";
